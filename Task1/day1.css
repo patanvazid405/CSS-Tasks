@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 3px black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    height: 45%;
+    width: 50%;
+    box-shadow: 4px 4px 4px  black;
+    border-radius: 20px;
+    
+}
+p{
+    text-align: justify;
+}
+
+#h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    /* text-decoration:underline; */
+    margin-right: 10px;
+    color: brown;
+
+}
+#h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-decoration:underline;
+    margin-right: 10px;
+    /* transform: scale(1.0,0.5); */
+} 
+
+.para{
+    font-size: 18px;
+    font-family:cursive;
+    color: black;
+
+}
