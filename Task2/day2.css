@@ -1,0 +1,36 @@
+.all{
+    display: flex;
+}
+.card{
+    height: 250px;
+    width: 300px;
+    border: 1px solid black;
+    position: relative;
+    text-align: center;
+    margin: 30px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px black;
+}
+
+h1{
+    color: red;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    text-align: justify;
+    padding: 0px 2px 0px 2px;
+    
+}
+
+button{
+    height: 35px;
+    width: 65px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: 17px;
+    
+}
