@@ -59,6 +59,7 @@ p{
     position: relative;
     margin: 20px;
     padding: 20px;
+    background-color: bisque;
 }
 .child{
     height: 200px;
@@ -73,7 +74,7 @@ p{
 .bone{
     height: 100px;
     width: 150px;
-    background-color:bisque;
+    background-color:rgb(29, 9, 209);
     z-index: 1;
 
 }
